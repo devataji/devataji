@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Hi, I'm Devansh Gupta</h1>
 <p align="center">
-  <b>Aspiring Cybersecurity Professional</b><br>
+  <b>Aspiring Cybersecurity Student</b><br>
   <img src="https://img.shields.io/badge/Location-Indore,%20Madhya%20Pradesh,%20India-blue?style=flat-square&logo=google-maps&logoColor=white"/>
 </p>
 
