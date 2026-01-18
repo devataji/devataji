@@ -62,18 +62,6 @@ I’m currently gaining foundational knowledge in network security and data prot
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devataji&show_icons=true&theme=github_dark" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devataji&layout=compact&theme=github_dark" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devataji&theme=onedark" width="60%"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - python 
